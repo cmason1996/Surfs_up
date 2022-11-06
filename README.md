@@ -18,7 +18,7 @@ The above image is a screen grab of the descriptive statistics for the temperatu
 
 Shown above is a table of the summary statistics for the December temperature observations. With just over 1,500 observations the mean temperature is 71 degrees with the min and max temperatures being 56 and 83. The min temperature is only 8 degrees lower than in June and the max is also only slightly decreased at 2 degrees lower then the June max of 85. The distribution of the data points is also relatively narrow for December, with only a marginal difference between the mean temperature and the 2nd percentile of the data. The data indicates that there is not much of a difference between the summer and winter highs and lows for temperature which means that Oahu would be a suitable location for a surf and ice cream shop.
 
-## Summary of Anlysis
+## Summary of Analysis
 
 The overall analysis of the data is that Oahu would be a suitable location for a surf shop that also sells ice cream. Based on the data analyzed, there are sufficiently warm temperatures for the business to be profitable.
 
