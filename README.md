@@ -8,6 +8,6 @@ The purpose of this analysis is to examine weather data from weather stations sc
 
 ### June Analysis
 
-
+<img width="134" alt="june_desc_stats" src="https://user-images.githubusercontent.com/112291888/200152318-cdbeeeba-0a44-4822-ba3b-670fadb16762.png">
 
 ### December Analysis
